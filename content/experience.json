@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "company": "NSI Advisor SRL",
+      "role": "Head of Cyber Security & Intelligence",
+      "period": "2025 – Present",
+      "location": "Italy",
+      "highlights": [
+        "Leading cyber security & intelligence practice with focus on cyber resilience, DFIR and threat intelligence.",
+        "Advising boards and executives on NIS2, ISO/IEC 27001:2022 and modern cyber risk management."
+      ]
+    },
+    {
+      "company": "OMB Saleri",
+      "role": "ICT & Cybersecurity Manager (CIO/CISO)",
+      "period": "2010 – 2021",
+      "location": "Italy",
+      "highlights": [
+        "Owned both IT operations and security for an industrial group, driving the security transformation roadmap.",
+        "Handled multiple security incidents as first responder, coordinating containment and recovery."
+      ]
+    }
+  ]
+}

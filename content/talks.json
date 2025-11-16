@@ -1,0 +1,37 @@
+{
+  "talks": [
+    {
+      "id": "osint-infrastructure-r2nh-torino",
+      "title": "OSINT applied to infrastructure analysis",
+      "event": "Road to NoHat 2022",
+      "location": "Turin, Italy",
+      "year": 2022,
+      "type": "OSINT",
+      "links": {
+        "video": "https://www.youtube.com/watch?v=V5awmKci3ok"
+      }
+    },
+    {
+      "id": "osint-infrastructure-r2nh-napoli",
+      "title": "OSINT applied to infrastructure analysis",
+      "event": "Road to NoHat 2022",
+      "location": "University of Naples Federico II, Italy",
+      "year": 2022,
+      "type": "OSINT",
+      "links": {
+        "video": "https://www.youtube.com/watch?v=rs4V86xUUx4"
+      }
+    },
+    {
+      "id": "qubes-os-unibg",
+      "title": "Security by Isolation – A quick peek at Qubes OS",
+      "event": "Road to NoHat 23 – University of Bergamo",
+      "location": "Bergamo, Italy",
+      "year": 2023,
+      "type": "OS / Security",
+      "links": {
+        "slides": "https://www.hacklabg.net/wp-content/uploads/2023/05/Qubes-OS-Security-by-Isolation.pdf"
+      }
+    }
+  ]
+}
