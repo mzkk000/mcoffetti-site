@@ -8,14 +8,24 @@ const schema: Schema = {
       path: "content",
       format: "json",
       match: {
-        include: ["profile"]
+        include: "profile"
       },
       fields: [
         { type: "string", name: "name", label: "Name" },
         { type: "string", name: "headline", label: "Headline" },
         { type: "string", name: "location", label: "Location" },
-        { type: "string", name: "shortBio", label: "Short bio", ui: { component: "textarea" } },
-        { type: "string", name: "longBio", label: "Long bio", ui: { component: "textarea" } },
+        {
+          type: "string",
+          name: "shortBio",
+          label: "Short bio",
+          ui: { component: "textarea" }
+        },
+        {
+          type: "string",
+          name: "longBio",
+          label: "Long bio",
+          ui: { component: "textarea" }
+        },
         {
           type: "object",
           name: "links",
@@ -33,7 +43,7 @@ const schema: Schema = {
       path: "content",
       format: "json",
       match: {
-        include: ["experience"]
+        include: "experience"
       },
       fields: [
         {
@@ -63,7 +73,7 @@ const schema: Schema = {
       path: "content",
       format: "json",
       match: {
-        include: ["talks"]
+        include: "talks"
       },
       fields: [
         {
